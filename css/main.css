@@ -107,6 +107,47 @@ header {
   letter-spacing: 2px;
 }
 
+#work{
+  background-color: white;
+  text-align: center;
+  padding: 70px 7px;
+}
+
+.box-services-modal{
+  background-color: rgba(129,176,69,0.85);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.modal-body{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 100px;
+}
+
+.close{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.box-services-modal .close img{
+  width: 60px;
+}
+
+.hide{
+  display: none;
+}
+
+.box-services, .imagenes{
+  cursor: pointer;
+}
+
 footer{
   text-align: center;
   height: 70px;
