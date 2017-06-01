@@ -51,3 +51,20 @@ header {
 	color: white;
 	padding: 70px;
 }
+
+.text-home {
+	font-size: 53px;
+}
+
+.btn-home {
+	background: #2Ecc71;
+	color: #fff;
+	padding: 11px 20px;
+	border-radius: 1px;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-top: 63px;
+	display: inline-block;
+	font-size: 14px;
+}
+
